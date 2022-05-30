@@ -17,7 +17,7 @@
 
 <br />
 
-Hi, I'm [Jeftar Mascarenhas](https://jeftar.com.br/), Developer engineer and like working front-end, blockchain, back-end using the better architecture and design patterns. I Like NFTs, Defi... Love Blockchain.
+Hi, I'm [Jeftar Mascarenhas](https://jeftar.com.br/), Developer engineer and like working front-end, blockchain, back-end using the better architecture and design patterns. I Like NFTs, DAO, Crypto, DeFi... Love JavaScript and Blockchain.
 
 - 💼 Anything else? do reach, [email](mailto:jeftarmascarenhas@hotmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
