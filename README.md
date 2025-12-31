@@ -45,6 +45,13 @@ Hi, I'm **Jeftar Mascarenhas**, Senior **Blockchain, AI & Front-end Engineer** b
 
 ---
 
+### 🧠 Open Source
+
+- 🎯 [**Context Mesh**](https://github.com/jeftarmascarenhas/context-mesh) — AI-First development framework that standardizes context-driven development. A 3-step framework (Intent → Build → Learn) that makes context the primary artifact, enabling even free AI models to deliver quality code. [v1.1.0](https://github.com/jeftarmascarenhas/context-mesh/releases) | [Docs](https://github.com/jeftarmascarenhas/context-mesh) | [Website](https://context-mesh.org)
+
+---
+
+
 ### ⚙️ Tech Stack  
 
 #### 💻 Languages  
@@ -103,6 +110,8 @@ Hi, I'm **Jeftar Mascarenhas**, Senior **Blockchain, AI & Front-end Engineer** b
 🎥 [YouTube – NFT Choose](https://www.youtube.com/@NFTChoose)  
 🌎 [Portfolio](https://jeftar.com.br)  
 📧 [jeftarmascarenhas@hotmail.com](mailto:jeftarmascarenhas@hotmail.com)
+
+[Context Mesh - AI-First Framework](https://context-mesh.org)
 
 ---
 
